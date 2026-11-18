@@ -44,5 +44,5 @@ I build production-ready **LLM applications, RAG architectures, and high-perform
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/webddev](https://www.linkedin.com/in/webddev/) *(Update once you change your handle!)*
+- **LinkedIn:** [linkedin.com/in/webddev](https://www.linkedin.com/in/webddev/) 
 - **Email:** [taruntejashwisharma3@gmail.com](mailto:taruntejashwisharma3@gmail.com)

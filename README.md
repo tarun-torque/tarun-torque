@@ -39,7 +39,6 @@ I build production-ready **LLM applications, RAG architectures, and high-perform
 ### 📌 Featured Engineering Highlights
 - **AI Health Companion (RAG System):** Engineered a low-latency medical context engine using **FastAPI, LangChain, Gemini API, and Qdrant Vector DB** with semantic chunking, Pydantic validation, and Next.js.
 - **Database & API Optimization:** Reduced PostgreSQL query latency from **380ms to 55ms** under concurrent load for an AI-powered nutritional extraction backend (*Food Scan Genius @ Techavtar*).
-- **Security & IAM Automation:** Built a Python/Bash **Host & Network Log Triage Sandbox** (Linux SSH / Windows Event 4625) and an enterprise **Auth0 RBAC/MFA** simulation.
 
 ---
 

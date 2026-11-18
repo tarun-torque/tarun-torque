@@ -6,12 +6,7 @@ I build production-ready **LLM applications, RAG architectures, and high-perform
 
 ---
 
-### 🚀 What I'm Working On
-- 🧠 **Applied GenAI:** Designing context-aware **RAG pipelines**, semantic chunking strategies, metadata filtering, and multi-step agentic workflows using **LangChain, LangGraph, Gemini/OpenAI APIs, and Qdrant**.
-- ⚡ **Backend Engineering:** Building low-latency REST APIs and asynchronous microservices with **Python (FastAPI), Node.js (Express), PostgreSQL, and MongoDB**.
-- 🛒 **Production Full-Stack:** Architecting end-to-end e-commerce modules, idempotent payment/logistics webhook engines (Razorpay, Shiprocket), and **BigQuery SQL** analytics pipelines at **Chocolate & White**.
 
----
 
 ### 🛠️ Tech Stack & Tooling
 
